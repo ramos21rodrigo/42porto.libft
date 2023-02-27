@@ -10,7 +10,7 @@
 1. Clone && cd
 
 ```
-git clone https://github.com/ramos21rodrigo/42porto.libft && cd 42-Libft
+git clone https://github.com/ramos21rodrigo/42porto.libft && cd 42porto.libft
 ```
 2. Run `make`
 ```
