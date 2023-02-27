@@ -1,16 +1,12 @@
 
-# Libft <img  src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" title="42"  alt="42 Logo"  align="left" width="70"  height="45"/><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Logo" width="45" height="45" align="right" /> &nbsp;
+# 42: Libft<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Logo" width="45" height="45" align="right" /> &nbsp;
 
 ## Grade: 125/100
 
-#### ♠️ About
+### ♠️ About
+>This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.
 
-		The aim of this project is to code a C library regrouping 
-		usual functions that you'll be allowed to use in all your
-		other projects.
-
-#### ♥️ Installing and running the project:
-
+### ♥️ Installing and running the project:
 1. Clone && cd
 
 ```
@@ -27,10 +23,8 @@ make
 cc main.c libft.a
 ```
 
-  
 
-#### ♣️ Makefile Available Targets:
-
+### ♣️ Makefile Available Targets:
 - `make` or `make all` - Makes _libft.a_
 
 - `make bonus` - Makes _libft.a_ with bonus functions
@@ -52,4 +46,3 @@ cc main.c libft.a
   
 ___
 ######  At [42School](https://en.wikipedia.org/wiki/42_(school)), almost every project must be written in accordance to the [Norm](https://github.com/42School/norminette). As a result, parts of the code could be more readable or explcit.
-
