@@ -1,12 +1,15 @@
 
-# 42: Libft<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Logo" width="45" height="45" align="right" /> &nbsp;
+# [125/100] libft
+__This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.__    
 
-## Grade: 125/100
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff&style=flat")
 
-### ♠️ About
->This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.
+## 🌟 Skills
+> Algorithms & AI    
+> Rigor    
+> Imperative programming
 
-### ♥️ Installing and running the project:
+### ⬇️ Installing and running the project:
 1. Clone && cd
 
 ```
@@ -24,7 +27,7 @@ cc main.c libft.a
 ```
 
 
-### ♣️ Makefile Available Targets:
+### ⚙️ Makefile Available Targets:
 - `make` or `make all` - Makes _libft.a_
 
 - `make bonus` - Makes _libft.a_ with bonus functions
@@ -37,7 +40,7 @@ cc main.c libft.a
 
   
 
-### ♦️ Tests:
+### ⚒️ Tests:
 
 - [x] [Libft War Machine](https://github.com/y3ll0w42/libft-war-machine)
 
@@ -45,4 +48,6 @@ cc main.c libft.a
 
   
 ___
-######  At [42School](https://en.wikipedia.org/wiki/42_(school)), almost every project must be written in accordance to the [Norm](https://github.com/42School/norminette). As a result, parts of the code could be more readable or explcit.
+###### At  [42School](https://en.wikipedia.org/wiki/42_(school)), every project has specific rules or restrictions, and some of them must be written in accordance with the [Norm](https://github.com/42School/norminette). As a result, parts of the code could be more readable or explicit, and some used technologies could be different.
+Made with tears 🥲
+
