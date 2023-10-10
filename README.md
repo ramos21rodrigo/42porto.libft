@@ -9,7 +9,7 @@ __This project is your very first project as a student at 42. You will need to r
 > Rigor    
 > Imperative programming
 
-### ⬇️ Installing and running the project:
+## ⬇️ Installing and running the project:
 1. Clone && cd
 
 ```
@@ -27,7 +27,7 @@ cc main.c libft.a
 ```
 
 
-### ⚙️ Makefile Available Targets:
+## ⚙️ Makefile Available Targets:
 - `make` or `make all` - Makes _libft.a_
 
 - `make bonus` - Makes _libft.a_ with bonus functions
@@ -40,7 +40,7 @@ cc main.c libft.a
 
   
 
-### ⚒️ Tests:
+## ⚒️ Tests:
 
 - [x] [Libft War Machine](https://github.com/y3ll0w42/libft-war-machine)
 
